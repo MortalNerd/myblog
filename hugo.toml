@@ -98,3 +98,8 @@ languageName = "English"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
 
     noClasses = false
+
+  # 【❗关键补充】启用 Goldmark Unsafe 模式 
+  # 这允许主题的自定义 HTML/Markdown 扩展生效
+  [markup.goldmark.renderer]
+    unsafe = true
