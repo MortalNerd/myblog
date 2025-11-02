@@ -87,6 +87,9 @@ languageName = "English"
 # Markup related configuration in Hugo
 
 [markup]
+  # 解决新版本 Hugo 找不到代码块渲染模板的问题
+  # 禁用 Hugo 默认的代码块渲染短代码
+  disableKinds = ["render-codeblock"]
 
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
 
