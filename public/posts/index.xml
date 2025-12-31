@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mortal_Nerd&#39;s Blog</title>
+    <title>All Posts - Mortal_Nerd&#39;s Blog</title>
     <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Mortal_Nerd&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Mortal_Nerd&#39;s Blog</description>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.4.0-beta</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Nov 2025 21:18:30 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 21:18:30 +0800</lastBuildDate>
+    <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
       <link>http://example.org/posts/first_post/</link>
       <pubDate>Sun, 02 Nov 2025 21:18:30 +0800</pubDate>
-      
       <guid>http://example.org/posts/first_post/</guid>
-      <description>hello world</description>
+      <description>&lt;p&gt;hello world&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#39;test.png&#39; alt=&#34;test.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

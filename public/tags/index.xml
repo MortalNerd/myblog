@@ -4,7 +4,8 @@
     <title>Tags on Mortal_Nerd&#39;s Blog</title>
     <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Mortal_Nerd&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
