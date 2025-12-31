@@ -6,4 +6,4 @@ title = 'First_post'
 
 hello world
 
-![](test.png)
+![test](./test.png)
