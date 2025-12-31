@@ -1,24 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Mortal_Nerd&#39;s Blog</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>All Posts | Mortal_Nerd&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 02 Nov 2025 21:20:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Second_post</title>
-    <link>http://localhost:1313/posts/second/second_post/</link>
-    <pubDate>Sun, 02 Nov 2025 21:20:01 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/second/second_post/</guid>
-    <description><![CDATA[<h1 id="test-blog">Test blog</h1>
-<p><code>Life is a tragedy when seen in close-up, but a comedy in long-shot.</code></p>]]></description>
-</item>
-<item>
-    <title>First_post</title>
-    <link>http://localhost:1313/posts/first_post/</link>
-    <pubDate>Sun, 02 Nov 2025 21:18:30 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/posts/first_post/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mortal_Nerd&#39;s Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Mortal_Nerd&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Nov 2025 21:18:30 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sun, 02 Nov 2025 21:18:30 +0800</pubDate>
+      
+      <guid>http://example.org/posts/first_post/</guid>
+      <description>hello world</description>
+    </item>
+    
+  </channel>
 </rss>
